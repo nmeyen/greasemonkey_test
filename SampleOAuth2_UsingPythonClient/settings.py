@@ -125,7 +125,7 @@ STATICFILES_DIRS = [os.path.join(BASE_DIR, "static"), ]
 # OAauth2 config here
 CLIENT_ID = 'ABN8wtBIErrHrh5JCH4TJDoeYqCHFnkBnEVIwwOyr9AdlTLTPW'
 CLIENT_SECRET = 'C8JlDEJxxEo0AyuROBCHFzymK8SAbsmubxSDgtQb'
-REDIRECT_URI = 'http://greasemonkey1-greasemonkey1.apps.us-west-2.online-starter.openshift.com:8000/app/callback'
+REDIRECT_URI = 'http://greasemonkey1-greasemonkey1.apps.us-west-2.online-starter.openshift.com/app/callback'
 ENVIRONMENT = 'sandbox'
 
 # QBO Base URLs
