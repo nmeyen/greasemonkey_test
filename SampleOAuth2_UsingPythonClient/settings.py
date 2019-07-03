@@ -23,7 +23,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = 'v1lpa3e#c__brq#htp@v_&m!t1!7ii)9(qjqh$3a+j$hyj_^&n'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['greasemonkey1-greasemonkey1.apps.us-west-2.online-starter.openshift.com',]
 
