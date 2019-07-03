@@ -25,7 +25,7 @@ SECRET_KEY = 'v1lpa3e#c__brq#htp@v_&m!t1!7ii)9(qjqh$3a+j$hyj_^&n'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['http://test1-greasemonkey.apps.us-west-2.online-starter.openshift.com',]
+ALLOWED_HOSTS = ['greasemonkey1-greasemonkey1.apps.us-west-2.online-starter.openshift.com',]
 
 
 # Application definition
